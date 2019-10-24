@@ -4,9 +4,9 @@ Just helping to create new repo and studying tooo
 Left most side of your homepage there you can see repositories and 'NEW' button. Click on the new button .
 Then you have to give a name and some discription (not necessary) to your newrepository
 You can also make your repository public or private.
-Then click create repository.
+Then click 'create repository'.
 Now you can see some command need for you to create repository, commit , push, etc. in command line.
 Now we are doing this without command line.
-Click on 'Get started by creating a new file or uploading an existing file.' For creating new file or to upload.
+Click on 'Get started by creating a new file or uploading an existing file'.For creating new file or to upload.
 click 'creating a new file'.
 Then you see edit new file window ,Where you can write you code,etc.
